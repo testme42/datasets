@@ -1,7 +1,3 @@
-- path: afile799
-  name: afile799
-  extension: txt
-  type: files
 - path: adataset798
   name: adataset798
   rows: 150
