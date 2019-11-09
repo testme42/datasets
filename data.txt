@@ -11,3 +11,8 @@
   name: afile664
   extension: txt
   type: files
+- path: adataset173
+  name: adataset173
+  rows: 150
+  cols: 5
+  type: table
