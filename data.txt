@@ -7,7 +7,3 @@
   name: afile990
   extension: txt
   type: files
-- path: afile307
-  name: afile307
-  extension: txt
-  type: files
