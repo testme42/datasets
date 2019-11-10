@@ -7,8 +7,3 @@
   name: afile990
   extension: txt
   type: files
-- path: adataset239
-  name: adataset239
-  rows: 150
-  cols: 5
-  type: table
