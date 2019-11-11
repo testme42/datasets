@@ -7,3 +7,7 @@
   name: afile990
   extension: txt
   type: files
+- path: afile912
+  name: afile912
+  extension: txt
+  type: files
