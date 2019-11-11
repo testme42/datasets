@@ -7,10 +7,6 @@
   name: afile990
   extension: txt
   type: files
-- path: afile114
-  name: afile114
-  extension: txt
-  type: files
 - path: adataset553
   name: adataset553
   rows: 150
