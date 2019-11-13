@@ -11,10 +11,6 @@
   name: afile581
   extension: txt
   type: files
-- path: afile20
-  name: afile20
-  extension: txt
-  type: files
 - path: adataset147
   name: adataset147
   rows: 150
