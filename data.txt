@@ -1,7 +1,3 @@
-- path: afile550
-  name: afile550
-  extension: txt
-  type: files
 - path: adataset552
   name: adataset552
   rows: 150
