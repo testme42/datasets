@@ -11,10 +11,6 @@
   name: afile581
   extension: txt
   type: files
-- path: afile19
-  name: afile19
-  extension: txt
-  type: files
 - path: adataset799
   name: adataset799
   rows: 150
