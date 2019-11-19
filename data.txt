@@ -2,3 +2,8 @@
   name: afile750
   extension: txt
   type: files
+- path: adataset902
+  name: adataset902
+  rows: 150
+  cols: 5
+  type: table
