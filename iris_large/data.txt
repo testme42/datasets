@@ -1,0 +1,12 @@
+path:
+- https://github.com/testme42/datasets/releases/download/iris_large-716e600/data.csv
+- https://github.com/testme42/datasets/releases/download/iris_large-716e600/data.rds
+rows: 150
+cols: 5
+columns:
+  Sepal.Length: numeric
+  Sepal.Width: numeric
+  Petal.Length: numeric
+  Petal.Width: numeric
+  Species: factor
+type: table
