@@ -3,10 +3,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile990
-  name: afile990
-  extension: txt
-  type: files
 - path: afile581
   name: afile581
   extension: txt
