@@ -1,6 +1,6 @@
 path:
-- https://github.com/testme42/datasets/releases/download/iris_large-146856b/data.csv
-- https://github.com/testme42/datasets/releases/download/iris_large-146856b/data.rds
+- https://github.com/testme42/datasets/releases/download/iris_large-7578266/data.csv
+- https://github.com/testme42/datasets/releases/download/iris_large-7578266/data.rds
 rows: 150
 cols: 5
 columns:
