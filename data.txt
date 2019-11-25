@@ -1,7 +1,3 @@
-- path: afile609
-  name: afile609
-  extension: txt
-  type: files
 - path: adataset404
   name: adataset404
   rows: 150
