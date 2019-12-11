@@ -1,7 +1,3 @@
-- path: afile39
-  name: afile39
-  extension: txt
-  type: files
 - path: adataset769
   name: adataset769
   rows: 150
