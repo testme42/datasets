@@ -1,1 +1,4 @@
-[]
+- path: afile706
+  name: afile706
+  extension: txt
+  type: files
