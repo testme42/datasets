@@ -1,4 +1,1 @@
-- path: flights860
-  name: flights860
-  extension: csv
-  type: files
+[]
