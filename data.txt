@@ -1,1 +1,4 @@
-[]
+- path: flights869
+  name: flights869
+  extension: csv
+  type: files
