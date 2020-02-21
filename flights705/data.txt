@@ -1,0 +1,3 @@
+path: https://github.com/testme42/datasets/releases/download/flights705-08360d8/file3e677cf8bc06.csv
+extension: csv
+type: files
