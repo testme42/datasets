@@ -1,4 +1,1 @@
-- path: afile359
-  name: afile359
-  extension: txt
-  type: files
+[]
