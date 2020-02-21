@@ -1,7 +1,3 @@
-- path: afile365
-  name: afile365
-  extension: txt
-  type: files
 - path: adataset123
   name: adataset123
   rows: 150
