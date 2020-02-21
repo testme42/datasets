@@ -2,3 +2,7 @@
   name: flights537
   extension: csv
   type: files
+- path: afile359
+  name: afile359
+  extension: txt
+  type: files
