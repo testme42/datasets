@@ -12,3 +12,8 @@
   name: afile86
   extension: txt
   type: files
+- path: adataset188
+  name: adataset188
+  rows: 150
+  cols: 5
+  type: table
