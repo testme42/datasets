@@ -7,8 +7,3 @@
   rows: 150
   cols: 5
   type: table
-- path: adataset992
-  name: adataset992
-  rows: 150
-  cols: 5
-  type: table
