@@ -12,3 +12,7 @@
   rows: 150
   cols: 5
   type: table
+- path: afile156
+  name: afile156
+  extension: txt
+  type: files
