@@ -8,3 +8,7 @@
   rows: 150
   cols: 5
   type: table
+- path: afile86
+  name: afile86
+  extension: txt
+  type: files
