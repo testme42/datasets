@@ -7,3 +7,8 @@
   rows: 150
   cols: 5
   type: table
+- path: adataset390
+  name: adataset390
+  rows: 150
+  cols: 5
+  type: table
