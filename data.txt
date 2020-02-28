@@ -7,3 +7,8 @@
   name: afile929
   extension: txt
   type: files
+- path: adataset524
+  name: adataset524
+  rows: 150
+  cols: 5
+  type: table
