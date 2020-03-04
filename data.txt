@@ -7,10 +7,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile820
-  name: afile820
-  extension: txt
-  type: files
 - path: adataset589
   name: adataset589
   rows: 150
