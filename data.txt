@@ -7,8 +7,3 @@
   rows: 150
   cols: 5
   type: table
-- path: adataset527
-  name: adataset527
-  rows: 150
-  cols: 5
-  type: table
