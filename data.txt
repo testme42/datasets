@@ -3,10 +3,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile642
-  name: afile642
-  extension: txt
-  type: files
 - path: adataset879
   name: adataset879
   rows: 150
