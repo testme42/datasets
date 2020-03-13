@@ -3,3 +3,7 @@
   rows: 150
   cols: 5
   type: table
+- path: afile692
+  name: afile692
+  extension: txt
+  type: files
