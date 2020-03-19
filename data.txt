@@ -12,8 +12,3 @@
   rows: 150
   cols: 5
   type: table
-- path: adataset399
-  name: adataset399
-  rows: 150
-  cols: 5
-  type: table
