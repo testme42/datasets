@@ -15,8 +15,3 @@
   name: afile641
   extension: txt
   type: files
-- path: adataset986
-  name: adataset986
-  rows: 150
-  cols: 5
-  type: table
