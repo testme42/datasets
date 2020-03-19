@@ -12,10 +12,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile589
-  name: afile589
-  extension: txt
-  type: files
 - path: adataset617
   name: adataset617
   rows: 150
