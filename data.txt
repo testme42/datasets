@@ -23,8 +23,3 @@
   name: afile719
   extension: txt
   type: files
-- path: adataset993
-  name: adataset993
-  rows: 150
-  cols: 5
-  type: table
