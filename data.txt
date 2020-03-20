@@ -63,3 +63,8 @@
   name: afile765
   extension: txt
   type: files
+- path: adataset172
+  name: adataset172
+  rows: 150
+  cols: 5
+  type: table
