@@ -47,8 +47,3 @@
   name: afile979
   extension: txt
   type: files
-- path: adataset398
-  name: adataset398
-  rows: 150
-  cols: 5
-  type: table
