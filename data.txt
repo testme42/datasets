@@ -51,6 +51,3 @@
   name: afile78
   extension: txt
   type: files
-- path: aversion382
-  name: aversion382
-  type: default
