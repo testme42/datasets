@@ -67,10 +67,6 @@
   name: afile554
   extension: txt
   type: files
-- path: afile672
-  name: afile672
-  extension: txt
-  type: files
 - path: adataset122
   name: adataset122
   rows: 150
