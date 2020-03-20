@@ -39,3 +39,8 @@
   name: afile127
   extension: txt
   type: files
+- path: adataset329
+  name: adataset329
+  rows: 150
+  cols: 5
+  type: table
