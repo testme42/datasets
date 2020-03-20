@@ -75,3 +75,6 @@
   name: afile687
   extension: txt
   type: files
+- path: aversion407
+  name: aversion407
+  type: default
