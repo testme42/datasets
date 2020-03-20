@@ -31,8 +31,3 @@
   name: afile4
   extension: txt
   type: files
-- path: adataset832
-  name: adataset832
-  rows: 150
-  cols: 5
-  type: table
