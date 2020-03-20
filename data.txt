@@ -43,10 +43,6 @@
   name: afile170
   extension: txt
   type: files
-- path: afile979
-  name: afile979
-  extension: txt
-  type: files
 - path: adataset356
   name: adataset356
   rows: 150
