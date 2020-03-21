@@ -79,3 +79,6 @@
   name: afile411
   extension: txt
   type: files
+- path: aversion638
+  name: aversion638
+  type: default
