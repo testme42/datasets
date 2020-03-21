@@ -75,6 +75,3 @@
   name: afile469
   extension: txt
   type: files
-- path: aversion86
-  name: aversion86
-  type: default
