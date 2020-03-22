@@ -103,3 +103,8 @@
   name: afile450
   extension: txt
   type: files
+- path: adataset283
+  name: adataset283
+  rows: 150
+  cols: 5
+  type: table
