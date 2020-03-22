@@ -99,3 +99,6 @@
   name: afile99
   extension: txt
   type: files
+- path: aversion77
+  name: aversion77
+  type: default
