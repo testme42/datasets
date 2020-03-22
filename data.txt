@@ -95,3 +95,8 @@
   name: afile367
   extension: txt
   type: files
+- path: adataset401
+  name: adataset401
+  rows: 150
+  cols: 5
+  type: table
