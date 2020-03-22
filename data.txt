@@ -95,3 +95,8 @@
   name: afile598
   extension: txt
   type: files
+- path: adataset934
+  name: adataset934
+  rows: 150
+  cols: 5
+  type: table
