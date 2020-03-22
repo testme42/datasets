@@ -87,3 +87,6 @@
   name: afile930
   extension: txt
   type: files
+- path: aversion220
+  name: aversion220
+  type: default
