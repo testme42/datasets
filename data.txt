@@ -83,6 +83,3 @@
   name: afile633
   extension: txt
   type: files
-- path: aversion508
-  name: aversion508
-  type: default
