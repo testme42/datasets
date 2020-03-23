@@ -115,6 +115,3 @@
   name: afile654
   extension: txt
   type: files
-- path: aversion708
-  name: aversion708
-  type: default
