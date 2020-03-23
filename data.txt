@@ -123,8 +123,3 @@
   name: afile543
   extension: txt
   type: files
-- path: adataset147
-  name: adataset147
-  rows: 150
-  cols: 5
-  type: table
