@@ -115,8 +115,3 @@
   name: afile654
   extension: txt
   type: files
-- path: adataset121
-  name: adataset121
-  rows: 150
-  cols: 5
-  type: table
