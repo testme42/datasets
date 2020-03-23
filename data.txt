@@ -99,3 +99,8 @@
   name: afile643
   extension: txt
   type: files
+- path: adataset946
+  name: adataset946
+  rows: 150
+  cols: 5
+  type: table
