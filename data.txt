@@ -127,8 +127,3 @@
   name: afile457
   extension: txt
   type: files
-- path: adataset600
-  name: adataset600
-  rows: 150
-  cols: 5
-  type: table
