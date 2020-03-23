@@ -1,3 +1,3 @@
 path: data.rds
 type: default
-invalidate: 869823.0
+invalidate: 575194.0
