@@ -119,3 +119,6 @@
   name: afile41
   extension: txt
   type: files
+- path: aversion3
+  name: aversion3
+  type: default
