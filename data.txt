@@ -135,8 +135,3 @@
   name: afile660
   extension: txt
   type: files
-- path: adataset601
-  name: adataset601
-  rows: 150
-  cols: 5
-  type: table
