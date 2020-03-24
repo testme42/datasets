@@ -123,8 +123,3 @@
   name: afile480
   extension: txt
   type: files
-- path: adataset316
-  name: adataset316
-  rows: 150
-  cols: 5
-  type: table
