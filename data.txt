@@ -127,3 +127,6 @@
   name: afile192
   extension: txt
   type: files
+- path: aversion264
+  name: aversion264
+  type: default
