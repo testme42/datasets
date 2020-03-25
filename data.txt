@@ -151,3 +151,8 @@
   name: afile38
   extension: txt
   type: files
+- path: adataset60
+  name: adataset60
+  rows: 150
+  cols: 5
+  type: table
