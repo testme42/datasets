@@ -127,8 +127,3 @@
   name: afile192
   extension: txt
   type: files
-- path: adataset373
-  name: adataset373
-  rows: 150
-  cols: 5
-  type: table
