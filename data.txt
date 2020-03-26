@@ -151,8 +151,3 @@
   name: afile38
   extension: txt
   type: files
-- path: adataset718
-  name: adataset718
-  rows: 150
-  cols: 5
-  type: table
