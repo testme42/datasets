@@ -131,8 +131,3 @@
   name: afile941
   extension: txt
   type: files
-- path: adataset126
-  name: adataset126
-  rows: 150
-  cols: 5
-  type: table
