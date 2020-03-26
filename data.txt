@@ -155,8 +155,3 @@
   name: afile405
   extension: txt
   type: files
-- path: adataset6
-  name: adataset6
-  rows: 150
-  cols: 5
-  type: table
