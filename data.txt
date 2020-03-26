@@ -155,3 +155,7 @@
   name: afile405
   extension: txt
   type: files
+- path: afile700
+  name: afile700
+  extension: txt
+  type: files
