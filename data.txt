@@ -143,8 +143,3 @@
   name: afile241
   extension: txt
   type: files
-- path: adataset985
-  name: adataset985
-  rows: 150
-  cols: 5
-  type: table
