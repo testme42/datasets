@@ -1,3 +1,0 @@
-path: data.rds
-type: default
-invalidate: 713774.0
