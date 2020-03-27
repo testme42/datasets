@@ -167,6 +167,3 @@
   name: afile407
   extension: txt
   type: files
-- path: aversion404
-  name: aversion404
-  type: default
