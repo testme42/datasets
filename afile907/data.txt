@@ -1,4 +1,0 @@
-path: hello.txt
-extension: txt
-type: files
-invalidate: 202692.0
