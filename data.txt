@@ -163,10 +163,6 @@
   name: afile653
   extension: txt
   type: files
-- path: afile407
-  name: afile407
-  extension: txt
-  type: files
 - path: adataset256
   name: adataset256
   rows: 150
