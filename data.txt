@@ -147,6 +147,3 @@
   name: afile907
   extension: txt
   type: files
-- path: aversion160
-  name: aversion160
-  type: default
