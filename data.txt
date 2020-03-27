@@ -163,8 +163,3 @@
   name: afile653
   extension: txt
   type: files
-- path: adataset256
-  name: adataset256
-  rows: 150
-  cols: 5
-  type: table
