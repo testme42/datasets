@@ -179,3 +179,8 @@
 - path: aversion578
   name: aversion578
   type: default
+- path: iris_large
+  name: iris_large
+  rows: 150
+  cols: 5
+  type: table
