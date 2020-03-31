@@ -168,3 +168,6 @@
   name: afile681
   extension: txt
   type: files
+- path: aversion40
+  name: aversion40
+  type: default
