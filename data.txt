@@ -164,10 +164,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile681
-  name: afile681
-  extension: txt
-  type: files
 - path: adataset95
   name: adataset95
   rows: 150
