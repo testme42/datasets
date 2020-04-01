@@ -33,8 +33,3 @@
   name: afile728
   extension: txt
   type: files
-- path: adataset206
-  name: adataset206
-  rows: 150
-  cols: 5
-  type: table
