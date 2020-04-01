@@ -21,3 +21,6 @@
   name: afile926
   extension: txt
   type: files
+- path: aversion255
+  name: aversion255
+  type: default
