@@ -41,8 +41,3 @@
   name: afile989
   extension: txt
   type: files
-- path: adataset415
-  name: adataset415
-  rows: 150
-  cols: 5
-  type: table
