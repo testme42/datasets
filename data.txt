@@ -25,6 +25,3 @@
   name: afile134
   extension: txt
   type: files
-- path: aversion778
-  name: aversion778
-  type: default
