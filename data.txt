@@ -37,8 +37,3 @@
   name: afile92
   extension: txt
   type: files
-- path: adataset629
-  name: adataset629
-  rows: 150
-  cols: 5
-  type: table
