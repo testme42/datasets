@@ -37,10 +37,6 @@
   name: afile258
   extension: txt
   type: files
-- path: afile325
-  name: afile325
-  extension: txt
-  type: files
 - path: adataset178
   name: adataset178
   rows: 150
