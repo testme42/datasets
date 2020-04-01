@@ -33,6 +33,3 @@
   name: afile38
   extension: txt
   type: files
-- path: aversion837
-  name: aversion837
-  type: default
