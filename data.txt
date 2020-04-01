@@ -6,3 +6,6 @@
   name: afile580
   extension: txt
   type: files
+- path: aversion905
+  name: aversion905
+  type: default
