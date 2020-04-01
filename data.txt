@@ -9,3 +9,7 @@
 - path: aversion905
   name: aversion905
   type: default
+- path: afile877
+  name: afile877
+  extension: txt
+  type: files
