@@ -37,8 +37,3 @@
   name: afile325
   extension: txt
   type: files
-- path: adataset253
-  name: adataset253
-  rows: 150
-  cols: 5
-  type: table
