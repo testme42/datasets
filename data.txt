@@ -13,10 +13,6 @@
   name: afile500
   extension: txt
   type: files
-- path: afile571
-  name: afile571
-  extension: txt
-  type: files
 - path: adataset88
   name: adataset88
   rows: 150
