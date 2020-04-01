@@ -25,3 +25,8 @@
   name: afile368
   extension: txt
   type: files
+- path: adataset449
+  name: adataset449
+  rows: 150
+  cols: 5
+  type: table
