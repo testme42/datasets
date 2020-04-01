@@ -13,3 +13,8 @@
   name: afile500
   extension: txt
   type: files
+- path: adataset486
+  name: adataset486
+  rows: 150
+  cols: 5
+  type: table
