@@ -9,8 +9,3 @@
 - path: aversion905
   name: aversion905
   type: default
-- path: adataset589
-  name: adataset589
-  rows: 150
-  cols: 5
-  type: table
