@@ -33,3 +33,8 @@
   name: afile38
   extension: txt
   type: files
+- path: adataset131
+  name: adataset131
+  rows: 150
+  cols: 5
+  type: table
