@@ -5,3 +5,7 @@
 - path: aversion665
   name: aversion665
   type: default
+- path: afile989
+  name: afile989
+  extension: txt
+  type: files
