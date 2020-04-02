@@ -53,8 +53,3 @@
   name: afile638
   extension: txt
   type: files
-- path: adataset689
-  name: adataset689
-  rows: 150
-  cols: 5
-  type: table
