@@ -97,3 +97,8 @@
   name: afile763
   extension: txt
   type: files
+- path: adataset402
+  name: adataset402
+  rows: 150
+  cols: 5
+  type: table
