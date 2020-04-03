@@ -73,3 +73,6 @@
   name: afile904
   extension: txt
   type: files
+- path: aversion341
+  name: aversion341
+  type: default
