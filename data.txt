@@ -61,10 +61,6 @@
   name: afile981
   extension: txt
   type: files
-- path: afile442
-  name: afile442
-  extension: txt
-  type: files
 - path: adataset828
   name: adataset828
   rows: 150
