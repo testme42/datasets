@@ -61,8 +61,3 @@
   name: afile86
   extension: txt
   type: files
-- path: adataset604
-  name: adataset604
-  rows: 150
-  cols: 5
-  type: table
