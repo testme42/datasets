@@ -65,3 +65,8 @@
   name: afile442
   extension: txt
   type: files
+- path: adataset828
+  name: adataset828
+  rows: 150
+  cols: 5
+  type: table
