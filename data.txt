@@ -81,8 +81,3 @@
   name: afile568
   extension: txt
   type: files
-- path: adataset957
-  name: adataset957
-  rows: 150
-  cols: 5
-  type: table
