@@ -57,8 +57,3 @@
   name: afile819
   extension: txt
   type: files
-- path: adataset651
-  name: adataset651
-  rows: 150
-  cols: 5
-  type: table
