@@ -57,10 +57,6 @@
   name: afile863
   extension: txt
   type: files
-- path: afile86
-  name: afile86
-  extension: txt
-  type: files
 - path: adataset980
   name: adataset980
   rows: 150
