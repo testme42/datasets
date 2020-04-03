@@ -57,6 +57,3 @@
   name: afile819
   extension: txt
   type: files
-- path: aversion504
-  name: aversion504
-  type: default
