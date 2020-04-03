@@ -77,6 +77,3 @@
   name: afile167
   extension: txt
   type: files
-- path: aversion2
-  name: aversion2
-  type: default
