@@ -61,3 +61,7 @@
   name: afile981
   extension: txt
   type: files
+- path: afile442
+  name: afile442
+  extension: txt
+  type: files
