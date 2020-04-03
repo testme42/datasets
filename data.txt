@@ -69,3 +69,8 @@
   name: afile534
   extension: txt
   type: files
+- path: adataset738
+  name: adataset738
+  rows: 150
+  cols: 5
+  type: table
