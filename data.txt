@@ -69,8 +69,3 @@
   name: afile534
   extension: txt
   type: files
-- path: adataset550
-  name: adataset550
-  rows: 150
-  cols: 5
-  type: table
