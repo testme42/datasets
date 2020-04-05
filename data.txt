@@ -85,8 +85,3 @@
   name: afile822
   extension: txt
   type: files
-- path: adataset512
-  name: adataset512
-  rows: 150
-  cols: 5
-  type: table
