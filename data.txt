@@ -109,8 +109,3 @@
   name: afile886
   extension: txt
   type: files
-- path: adataset420
-  name: adataset420
-  rows: 150
-  cols: 5
-  type: table
