@@ -89,8 +89,3 @@
   name: afile105
   extension: txt
   type: files
-- path: adataset396
-  name: adataset396
-  rows: 150
-  cols: 5
-  type: table
