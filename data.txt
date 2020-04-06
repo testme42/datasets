@@ -113,3 +113,8 @@
   name: afile66
   extension: txt
   type: files
+- path: adataset808
+  name: adataset808
+  rows: 150
+  cols: 5
+  type: table
