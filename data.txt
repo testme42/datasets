@@ -105,6 +105,3 @@
   name: afile201
   extension: txt
   type: files
-- path: aversion271
-  name: aversion271
-  type: default
