@@ -109,6 +109,3 @@
   name: afile886
   extension: txt
   type: files
-- path: aversion822
-  name: aversion822
-  type: default
