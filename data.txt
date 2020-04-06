@@ -121,10 +121,6 @@
   name: afile415
   extension: txt
   type: files
-- path: afile82
-  name: afile82
-  extension: txt
-  type: files
 - path: adataset221
   name: adataset221
   rows: 150
