@@ -109,7 +109,3 @@
   name: afile886
   extension: txt
   type: files
-- path: flights637
-  name: flights637
-  extension: csv
-  type: files
