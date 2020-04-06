@@ -105,3 +105,8 @@
   name: afile201
   extension: txt
   type: files
+- path: adataset793
+  name: adataset793
+  rows: 150
+  cols: 5
+  type: table
