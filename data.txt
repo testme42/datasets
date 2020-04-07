@@ -129,3 +129,8 @@
   name: afile767
   extension: txt
   type: files
+- path: adataset75
+  name: adataset75
+  rows: 150
+  cols: 5
+  type: table
