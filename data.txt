@@ -145,8 +145,3 @@
   name: afile205
   extension: txt
   type: files
-- path: adataset977
-  name: adataset977
-  rows: 150
-  cols: 5
-  type: table
