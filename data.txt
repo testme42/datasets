@@ -121,3 +121,6 @@
   name: afile844
   extension: txt
   type: files
+- path: aversion486
+  name: aversion486
+  type: default
