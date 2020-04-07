@@ -137,6 +137,3 @@
   name: afile731
   extension: txt
   type: files
-- path: aversion469
-  name: aversion469
-  type: default
