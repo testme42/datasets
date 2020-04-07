@@ -145,3 +145,8 @@
   name: afile205
   extension: txt
   type: files
+- path: adataset639
+  name: adataset639
+  rows: 150
+  cols: 5
+  type: table
