@@ -141,6 +141,3 @@
   name: afile744
   extension: txt
   type: files
-- path: aversion879
-  name: aversion879
-  type: default
