@@ -117,8 +117,3 @@
   name: afile788
   extension: txt
   type: files
-- path: adataset944
-  name: adataset944
-  rows: 150
-  cols: 5
-  type: table
