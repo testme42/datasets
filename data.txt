@@ -165,6 +165,3 @@
   name: afile981
   extension: txt
   type: files
-- path: aversion904
-  name: aversion904
-  type: default
