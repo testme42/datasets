@@ -161,8 +161,3 @@
   name: afile69
   extension: txt
   type: files
-- path: adataset445
-  name: adataset445
-  rows: 150
-  cols: 5
-  type: table
