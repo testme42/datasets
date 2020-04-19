@@ -157,6 +157,3 @@
   name: afile98
   extension: txt
   type: files
-- path: aversion503
-  name: aversion503
-  type: default
