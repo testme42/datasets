@@ -157,3 +157,8 @@
   name: afile98
   extension: txt
   type: files
+- path: adataset208
+  name: adataset208
+  rows: 150
+  cols: 5
+  type: table
