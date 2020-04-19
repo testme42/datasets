@@ -137,3 +137,6 @@
   name: afile860
   extension: txt
   type: files
+- path: aversion406
+  name: aversion406
+  type: default
