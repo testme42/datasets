@@ -165,8 +165,3 @@
   name: afile981
   extension: txt
   type: files
-- path: adataset501
-  name: adataset501
-  rows: 150
-  cols: 5
-  type: table
