@@ -153,10 +153,6 @@
   name: afile185
   extension: txt
   type: files
-- path: afile98
-  name: afile98
-  extension: txt
-  type: files
 - path: adataset208
   name: adataset208
   rows: 150
