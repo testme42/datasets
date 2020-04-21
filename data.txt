@@ -173,10 +173,6 @@
   name: afile101
   extension: txt
   type: files
-- path: afile581
-  name: afile581
-  extension: txt
-  type: files
 - path: adataset420
   name: adataset420
   rows: 150
