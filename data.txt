@@ -145,8 +145,3 @@
   name: afile969
   extension: txt
   type: files
-- path: adataset688
-  name: adataset688
-  rows: 150
-  cols: 5
-  type: table
