@@ -209,6 +209,3 @@
   name: afile190
   extension: txt
   type: files
-- path: aversion950
-  name: aversion950
-  type: default
