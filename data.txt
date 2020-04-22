@@ -201,3 +201,8 @@
   name: afile43
   extension: txt
   type: files
+- path: adataset560
+  name: adataset560
+  rows: 150
+  cols: 5
+  type: table
