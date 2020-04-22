@@ -153,3 +153,7 @@
   name: afile526
   extension: txt
   type: files
+- path: afile286
+  name: afile286
+  extension: txt
+  type: files
