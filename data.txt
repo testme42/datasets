@@ -213,3 +213,8 @@
   name: afile998
   extension: txt
   type: files
+- path: adataset112
+  name: adataset112
+  rows: 150
+  cols: 5
+  type: table
