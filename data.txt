@@ -165,10 +165,6 @@
   name: afile420
   extension: txt
   type: files
-- path: afile337
-  name: afile337
-  extension: txt
-  type: files
 - path: adataset77
   name: adataset77
   rows: 150
