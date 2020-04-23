@@ -169,3 +169,8 @@
   name: afile337
   extension: txt
   type: files
+- path: adataset77
+  name: adataset77
+  rows: 150
+  cols: 5
+  type: table
