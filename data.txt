@@ -221,10 +221,6 @@
   name: afile430
   extension: txt
   type: files
-- path: afile784
-  name: afile784
-  extension: txt
-  type: files
 - path: adataset896
   name: adataset896
   rows: 150
