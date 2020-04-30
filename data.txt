@@ -233,3 +233,8 @@
   name: afile115
   extension: txt
   type: files
+- path: adataset25
+  name: adataset25
+  rows: 150
+  cols: 5
+  type: table
