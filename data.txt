@@ -233,3 +233,6 @@
   name: afile115
   extension: txt
   type: files
+- path: aversion706
+  name: aversion706
+  type: default
