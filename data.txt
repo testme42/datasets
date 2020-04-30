@@ -253,10 +253,6 @@
   name: afile777
   extension: txt
   type: files
-- path: afile36
-  name: afile36
-  extension: txt
-  type: files
 - path: adataset885
   name: adataset885
   rows: 150
