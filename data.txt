@@ -245,6 +245,3 @@
   name: afile750
   extension: txt
   type: files
-- path: aversion13
-  name: aversion13
-  type: default
