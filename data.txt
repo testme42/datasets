@@ -257,3 +257,8 @@
   name: afile36
   extension: txt
   type: files
+- path: adataset885
+  name: adataset885
+  rows: 150
+  cols: 5
+  type: table
