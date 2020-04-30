@@ -237,6 +237,3 @@
   name: afile890
   extension: txt
   type: files
-- path: aversion998
-  name: aversion998
-  type: default
