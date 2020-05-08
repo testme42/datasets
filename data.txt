@@ -261,8 +261,3 @@
   name: afile595
   extension: txt
   type: files
-- path: adataset870
-  name: adataset870
-  rows: 150
-  cols: 5
-  type: table
