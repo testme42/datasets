@@ -273,8 +273,3 @@
   name: afile554
   extension: txt
   type: files
-- path: adataset916
-  name: adataset916
-  rows: 150
-  cols: 5
-  type: table
