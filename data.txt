@@ -293,8 +293,3 @@
   name: afile246
   extension: txt
   type: files
-- path: adataset103
-  name: adataset103
-  rows: 150
-  cols: 5
-  type: table
