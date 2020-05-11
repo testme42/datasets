@@ -225,8 +225,3 @@
   name: afile956
   extension: txt
   type: files
-- path: adataset807
-  name: adataset807
-  rows: 150
-  cols: 5
-  type: table
