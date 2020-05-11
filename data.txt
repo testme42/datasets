@@ -309,3 +309,8 @@
   name: afile599
   extension: txt
   type: files
+- path: adataset97
+  name: adataset97
+  rows: 150
+  cols: 5
+  type: table
