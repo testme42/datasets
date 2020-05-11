@@ -221,8 +221,3 @@
   name: afile907
   extension: txt
   type: files
-- path: adataset413
-  name: adataset413
-  rows: 150
-  cols: 5
-  type: table
