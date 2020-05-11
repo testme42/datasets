@@ -229,6 +229,3 @@
   name: afile884
   extension: txt
   type: files
-- path: aversion625
-  name: aversion625
-  type: default
