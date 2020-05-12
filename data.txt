@@ -317,6 +317,3 @@
   name: afile711
   extension: txt
   type: files
-- path: aversion350
-  name: aversion350
-  type: default
