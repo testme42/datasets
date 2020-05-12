@@ -309,8 +309,3 @@
   name: afile599
   extension: txt
   type: files
-- path: adataset628
-  name: adataset628
-  rows: 150
-  cols: 5
-  type: table
