@@ -229,8 +229,3 @@
   name: afile884
   extension: txt
   type: files
-- path: adataset851
-  name: adataset851
-  rows: 150
-  cols: 5
-  type: table
