@@ -321,8 +321,3 @@
   name: afile635
   extension: txt
   type: files
-- path: adataset796
-  name: adataset796
-  rows: 150
-  cols: 5
-  type: table
