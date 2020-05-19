@@ -249,8 +249,3 @@
   name: afile782
   extension: txt
   type: files
-- path: adataset710
-  name: adataset710
-  rows: 150
-  cols: 5
-  type: table
