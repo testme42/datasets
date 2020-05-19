@@ -365,8 +365,3 @@
   name: afile23
   extension: txt
   type: files
-- path: adataset295
-  name: adataset295
-  rows: 150
-  cols: 5
-  type: table
