@@ -373,10 +373,6 @@
   name: afile856
   extension: txt
   type: files
-- path: afile604
-  name: afile604
-  extension: txt
-  type: files
 - path: adataset634
   name: adataset634
   rows: 150
