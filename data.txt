@@ -369,8 +369,3 @@
   name: afile550
   extension: txt
   type: files
-- path: adataset956
-  name: adataset956
-  rows: 150
-  cols: 5
-  type: table
