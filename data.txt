@@ -377,3 +377,7 @@
   name: afile604
   extension: txt
   type: files
+- path: afile767
+  name: afile767
+  extension: txt
+  type: files
