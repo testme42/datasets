@@ -389,6 +389,3 @@
   name: afile387
   extension: txt
   type: files
-- path: aversion924
-  name: aversion924
-  type: default
