@@ -421,6 +421,3 @@
   name: afile817
   extension: txt
   type: files
-- path: aversion19
-  name: aversion19
-  type: default
