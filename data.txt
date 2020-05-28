@@ -393,10 +393,6 @@
   name: afile234
   extension: txt
   type: files
-- path: afile653
-  name: afile653
-  extension: txt
-  type: files
 - path: adataset826
   name: adataset826
   rows: 150
