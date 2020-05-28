@@ -405,10 +405,6 @@
   name: afile245
   extension: txt
   type: files
-- path: afile224
-  name: afile224
-  extension: txt
-  type: files
 - path: adataset880
   name: adataset880
   rows: 150
