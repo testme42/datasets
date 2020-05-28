@@ -397,8 +397,3 @@
   name: afile653
   extension: txt
   type: files
-- path: adataset709
-  name: adataset709
-  rows: 150
-  cols: 5
-  type: table
