@@ -261,3 +261,8 @@
   name: afile754
   extension: txt
   type: files
+- path: adataset343
+  name: adataset343
+  rows: 150
+  cols: 5
+  type: table
