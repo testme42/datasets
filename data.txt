@@ -265,3 +265,8 @@
   name: afile54
   extension: txt
   type: files
+- path: adataset893
+  name: adataset893
+  rows: 150
+  cols: 5
+  type: table
