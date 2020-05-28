@@ -389,3 +389,8 @@
   name: afile387
   extension: txt
   type: files
+- path: adataset839
+  name: adataset839
+  rows: 150
+  cols: 5
+  type: table
