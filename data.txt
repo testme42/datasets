@@ -421,8 +421,3 @@
   name: afile817
   extension: txt
   type: files
-- path: adataset980
-  name: adataset980
-  rows: 150
-  cols: 5
-  type: table
