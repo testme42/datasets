@@ -265,8 +265,3 @@
   name: afile54
   extension: txt
   type: files
-- path: adataset269
-  name: adataset269
-  rows: 150
-  cols: 5
-  type: table
