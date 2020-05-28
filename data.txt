@@ -413,8 +413,3 @@
   name: afile318
   extension: txt
   type: files
-- path: adataset362
-  name: adataset362
-  rows: 150
-  cols: 5
-  type: table
