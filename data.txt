@@ -465,8 +465,3 @@
   name: afile520
   extension: txt
   type: files
-- path: adataset813
-  name: adataset813
-  rows: 150
-  cols: 5
-  type: table
