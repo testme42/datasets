@@ -445,8 +445,3 @@
   name: afile31
   extension: txt
   type: files
-- path: adataset288
-  name: adataset288
-  rows: 150
-  cols: 5
-  type: table
