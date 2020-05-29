@@ -453,8 +453,3 @@
   name: afile527
   extension: txt
   type: files
-- path: adataset372
-  name: adataset372
-  rows: 150
-  cols: 5
-  type: table
