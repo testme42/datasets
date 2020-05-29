@@ -457,6 +457,3 @@
   name: afile794
   extension: txt
   type: files
-- path: aversion300
-  name: aversion300
-  type: default
