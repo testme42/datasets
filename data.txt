@@ -445,6 +445,3 @@
   name: afile31
   extension: txt
   type: files
-- path: aversion876
-  name: aversion876
-  type: default
