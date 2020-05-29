@@ -457,8 +457,3 @@
   name: afile794
   extension: txt
   type: files
-- path: adataset518
-  name: adataset518
-  rows: 150
-  cols: 5
-  type: table
