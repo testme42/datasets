@@ -281,8 +281,3 @@
   name: afile552
   extension: txt
   type: files
-- path: adataset35
-  name: adataset35
-  rows: 150
-  cols: 5
-  type: table
