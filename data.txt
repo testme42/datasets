@@ -441,6 +441,3 @@
   name: afile464
   extension: txt
   type: files
-- path: aversion88
-  name: aversion88
-  type: default
