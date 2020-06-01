@@ -293,3 +293,6 @@
   name: afile89
   extension: txt
   type: files
+- path: aversion840
+  name: aversion840
+  type: default
