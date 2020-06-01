@@ -289,3 +289,7 @@
   name: afile632
   extension: txt
   type: files
+- path: afile89
+  name: afile89
+  extension: txt
+  type: files
