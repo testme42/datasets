@@ -301,3 +301,6 @@
   name: afile869
   extension: txt
   type: files
+- path: aversion702
+  name: aversion702
+  type: default
