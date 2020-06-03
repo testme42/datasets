@@ -305,6 +305,3 @@
   name: afile111
   extension: txt
   type: files
-- path: aversion428
-  name: aversion428
-  type: default
