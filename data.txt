@@ -357,6 +357,3 @@
   name: afile510
   extension: txt
   type: files
-- path: aversion256
-  name: aversion256
-  type: default
