@@ -333,8 +333,3 @@
   name: afile397
   extension: txt
   type: files
-- path: adataset634
-  name: adataset634
-  rows: 150
-  cols: 5
-  type: table
