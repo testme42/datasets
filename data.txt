@@ -333,3 +333,8 @@
   name: afile397
   extension: txt
   type: files
+- path: adataset590
+  name: adataset590
+  rows: 150
+  cols: 5
+  type: table
