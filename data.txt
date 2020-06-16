@@ -353,3 +353,8 @@
   name: afile448
   extension: txt
   type: files
+- path: adataset961
+  name: adataset961
+  rows: 150
+  cols: 5
+  type: table
