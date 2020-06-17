@@ -361,3 +361,8 @@
   name: afile602
   extension: txt
   type: files
+- path: adataset10
+  name: adataset10
+  rows: 150
+  cols: 5
+  type: table
