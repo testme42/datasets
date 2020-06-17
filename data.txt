@@ -73,10 +73,6 @@
   name: afile568
   extension: txt
   type: files
-- path: afile893
-  name: afile893
-  extension: txt
-  type: files
 - path: afile74
   name: afile74
   extension: txt
