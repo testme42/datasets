@@ -361,8 +361,3 @@
   name: afile662
   extension: txt
   type: files
-- path: adataset252
-  name: adataset252
-  rows: 150
-  cols: 5
-  type: table
