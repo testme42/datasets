@@ -473,3 +473,8 @@
   name: afile999
   extension: txt
   type: files
+- path: adataset665
+  name: adataset665
+  rows: 150
+  cols: 5
+  type: table
