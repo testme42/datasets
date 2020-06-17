@@ -473,6 +473,3 @@
   name: afile999
   extension: txt
   type: files
-- path: aversion704
-  name: aversion704
-  type: default
