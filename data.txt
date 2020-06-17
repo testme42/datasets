@@ -373,6 +373,3 @@
   name: afile396
   extension: txt
   type: files
-- path: aversion320
-  name: aversion320
-  type: default
