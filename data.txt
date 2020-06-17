@@ -365,8 +365,3 @@
   name: afile59
   extension: txt
   type: files
-- path: adataset630
-  name: adataset630
-  rows: 150
-  cols: 5
-  type: table
