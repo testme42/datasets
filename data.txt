@@ -481,3 +481,8 @@
   name: afile412
   extension: txt
   type: files
+- path: adataset722
+  name: adataset722
+  rows: 150
+  cols: 5
+  type: table
