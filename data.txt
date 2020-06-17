@@ -373,8 +373,3 @@
   name: afile396
   extension: txt
   type: files
-- path: adataset324
-  name: adataset324
-  rows: 150
-  cols: 5
-  type: table
