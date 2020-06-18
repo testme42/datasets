@@ -485,6 +485,3 @@
   name: afile409
   extension: txt
   type: files
-- path: aversion926
-  name: aversion926
-  type: default
