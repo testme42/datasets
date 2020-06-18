@@ -489,10 +489,6 @@
   name: afile870
   extension: txt
   type: files
-- path: afile215
-  name: afile215
-  extension: txt
-  type: files
 - path: adataset152
   name: adataset152
   rows: 150
