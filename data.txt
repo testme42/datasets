@@ -501,8 +501,3 @@
   name: afile619
   extension: txt
   type: files
-- path: adataset698
-  name: adataset698
-  rows: 150
-  cols: 5
-  type: table
