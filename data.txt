@@ -385,8 +385,3 @@
   name: afile239
   extension: txt
   type: files
-- path: adataset866
-  name: adataset866
-  rows: 150
-  cols: 5
-  type: table
