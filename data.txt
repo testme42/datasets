@@ -509,8 +509,3 @@
   name: afile320
   extension: txt
   type: files
-- path: adataset260
-  name: adataset260
-  rows: 150
-  cols: 5
-  type: table
