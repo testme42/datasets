@@ -405,8 +405,3 @@
   name: afile559
   extension: txt
   type: files
-- path: adataset425
-  name: adataset425
-  rows: 150
-  cols: 5
-  type: table
