@@ -513,10 +513,6 @@
   name: afile32
   extension: txt
   type: files
-- path: afile577
-  name: afile577
-  extension: txt
-  type: files
 - path: adataset997
   name: adataset997
   rows: 150
