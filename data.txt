@@ -537,10 +537,6 @@
   name: afile904
   extension: txt
   type: files
-- path: afile65
-  name: afile65
-  extension: txt
-  type: files
 - path: adataset443
   name: adataset443
   rows: 150
