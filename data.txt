@@ -513,8 +513,3 @@
   name: afile32
   extension: txt
   type: files
-- path: adataset997
-  name: adataset997
-  rows: 150
-  cols: 5
-  type: table
