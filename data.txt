@@ -509,6 +509,3 @@
   name: afile320
   extension: txt
   type: files
-- path: aversion720
-  name: aversion720
-  type: default
