@@ -509,10 +509,6 @@
   name: afile320
   extension: txt
   type: files
-- path: afile32
-  name: afile32
-  extension: txt
-  type: files
 - path: adataset260
   name: adataset260
   rows: 150
