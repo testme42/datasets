@@ -413,3 +413,8 @@
   name: afile178
   extension: txt
   type: files
+- path: adataset297
+  name: adataset297
+  rows: 150
+  cols: 5
+  type: table
