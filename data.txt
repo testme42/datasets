@@ -429,8 +429,3 @@
   name: afile99
   extension: txt
   type: files
-- path: adataset293
-  name: adataset293
-  rows: 150
-  cols: 5
-  type: table
