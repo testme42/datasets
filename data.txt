@@ -433,6 +433,3 @@
   name: afile241
   extension: txt
   type: files
-- path: aversion379
-  name: aversion379
-  type: default
