@@ -553,10 +553,6 @@
   name: afile408
   extension: txt
   type: files
-- path: afile830
-  name: afile830
-  extension: txt
-  type: files
 - path: adataset650
   name: adataset650
   rows: 150
