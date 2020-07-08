@@ -441,3 +441,8 @@
   name: afile416
   extension: txt
   type: files
+- path: adataset602
+  name: adataset602
+  rows: 150
+  cols: 5
+  type: table
