@@ -445,3 +445,8 @@
   name: afile240
   extension: txt
   type: files
+- path: adataset834
+  name: adataset834
+  rows: 150
+  cols: 5
+  type: table
