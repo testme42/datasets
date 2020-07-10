@@ -145,10 +145,6 @@
   name: afile526
   extension: txt
   type: files
-- path: afile790
-  name: afile790
-  extension: txt
-  type: files
 - path: afile420
   name: afile420
   extension: txt
