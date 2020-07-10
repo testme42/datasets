@@ -457,3 +457,8 @@
   name: afile364
   extension: txt
   type: files
+- path: adataset98
+  name: adataset98
+  rows: 150
+  cols: 5
+  type: table
