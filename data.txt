@@ -593,3 +593,8 @@
   name: afile440
   extension: txt
   type: files
+- path: adataset690
+  name: adataset690
+  rows: 150
+  cols: 5
+  type: table
