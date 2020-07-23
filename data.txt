@@ -473,6 +473,3 @@
   name: afile915
   extension: txt
   type: files
-- path: aversion425
-  name: aversion425
-  type: default
