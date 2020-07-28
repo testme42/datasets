@@ -381,10 +381,6 @@
   name: afile754
   extension: txt
   type: files
-- path: afile781
-  name: afile781
-  extension: txt
-  type: files
 - path: afile306
   name: afile306
   extension: txt
