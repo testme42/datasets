@@ -481,3 +481,6 @@
   name: afile49
   extension: txt
   type: files
+- path: aversion532
+  name: aversion532
+  type: default
