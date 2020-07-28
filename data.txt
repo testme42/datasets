@@ -485,8 +485,3 @@
   name: afile781
   extension: txt
   type: files
-- path: adataset322
-  name: adataset322
-  rows: 150
-  cols: 5
-  type: table
