@@ -489,8 +489,3 @@
   name: afile998
   extension: txt
   type: files
-- path: adataset746
-  name: adataset746
-  rows: 150
-  cols: 5
-  type: table
