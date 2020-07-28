@@ -481,8 +481,3 @@
   name: afile205
   extension: txt
   type: files
-- path: adataset598
-  name: adataset598
-  rows: 150
-  cols: 5
-  type: table
