@@ -517,8 +517,3 @@
   name: afile40
   extension: txt
   type: files
-- path: adataset277
-  name: adataset277
-  rows: 150
-  cols: 5
-  type: table
