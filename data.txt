@@ -497,10 +497,6 @@
   name: afile38
   extension: txt
   type: files
-- path: afile813
-  name: afile813
-  extension: txt
-  type: files
 - path: adataset339
   name: adataset339
   rows: 150
