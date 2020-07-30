@@ -537,8 +537,3 @@
   name: afile609
   extension: txt
   type: files
-- path: adataset721
-  name: adataset721
-  rows: 150
-  cols: 5
-  type: table
