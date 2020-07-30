@@ -545,3 +545,8 @@
   name: afile543
   extension: txt
   type: files
+- path: adataset15
+  name: adataset15
+  rows: 150
+  cols: 5
+  type: table
