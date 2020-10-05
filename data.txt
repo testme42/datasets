@@ -553,3 +553,8 @@
   name: afile475
   extension: txt
   type: files
+- path: adataset786
+  name: adataset786
+  rows: 150
+  cols: 5
+  type: table
