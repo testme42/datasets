@@ -553,10 +553,6 @@
   name: afile475
   extension: txt
   type: files
-- path: afile430
-  name: afile430
-  extension: txt
-  type: files
 - path: adataset914
   name: adataset914
   rows: 150
