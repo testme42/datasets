@@ -565,6 +565,3 @@
   name: afile110
   extension: txt
   type: files
-- path: aversion430
-  name: aversion430
-  type: default
