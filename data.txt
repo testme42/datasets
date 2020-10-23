@@ -569,3 +569,8 @@
   name: afile349
   extension: txt
   type: files
+- path: adataset294
+  name: adataset294
+  rows: 150
+  cols: 5
+  type: table
