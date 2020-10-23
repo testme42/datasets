@@ -577,6 +577,3 @@
   name: afile557
   extension: txt
   type: files
-- path: aversion178
-  name: aversion178
-  type: default
