@@ -573,8 +573,3 @@
   name: afile988
   extension: txt
   type: files
-- path: iris_large
-  name: iris_large
-  rows: 150
-  cols: 5
-  type: table
