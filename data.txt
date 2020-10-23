@@ -569,8 +569,3 @@
   name: afile110
   extension: txt
   type: files
-- path: adataset929
-  name: adataset929
-  rows: 150
-  cols: 5
-  type: table
