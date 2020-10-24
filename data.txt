@@ -573,8 +573,3 @@
   name: afile337
   extension: txt
   type: files
-- path: adataset273
-  name: adataset273
-  rows: 150
-  cols: 5
-  type: table
