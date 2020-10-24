@@ -577,8 +577,3 @@
   name: afile822
   extension: txt
   type: files
-- path: adataset727
-  name: adataset727
-  rows: 150
-  cols: 5
-  type: table
