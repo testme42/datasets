@@ -581,8 +581,3 @@
   name: afile673
   extension: txt
   type: files
-- path: adataset616
-  name: adataset616
-  rows: 150
-  cols: 5
-  type: table
