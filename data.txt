@@ -617,8 +617,3 @@
   name: afile748
   extension: txt
   type: files
-- path: adataset937
-  name: adataset937
-  rows: 150
-  cols: 5
-  type: table
