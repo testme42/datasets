@@ -613,6 +613,3 @@
   name: afile591
   extension: txt
   type: files
-- path: aversion333
-  name: aversion333
-  type: default
