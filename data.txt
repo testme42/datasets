@@ -633,10 +633,6 @@
   name: afile188
   extension: txt
   type: files
-- path: afile218
-  name: afile218
-  extension: txt
-  type: files
 - path: adataset384
   name: adataset384
   rows: 150
