@@ -601,6 +601,3 @@
   name: afile923
   extension: txt
   type: files
-- path: aversion753
-  name: aversion753
-  type: default
