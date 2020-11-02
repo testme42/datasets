@@ -601,7 +601,6 @@
   name: afile923
   extension: txt
   type: files
-- path: afile380
-  name: afile380
-  extension: txt
-  type: files
+- path: aversion701
+  name: aversion701
+  type: default
