@@ -653,8 +653,3 @@
   name: afile48
   extension: txt
   type: files
-- path: adataset52
-  name: adataset52
-  rows: 150
-  cols: 5
-  type: table
