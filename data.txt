@@ -625,8 +625,3 @@
   name: afile381
   extension: txt
   type: files
-- path: adataset91
-  name: adataset91
-  rows: 150
-  cols: 5
-  type: table
