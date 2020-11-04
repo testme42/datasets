@@ -673,8 +673,3 @@
   name: afile344
   extension: txt
   type: files
-- path: adataset424
-  name: adataset424
-  rows: 150
-  cols: 5
-  type: table
