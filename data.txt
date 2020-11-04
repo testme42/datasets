@@ -637,8 +637,3 @@
   name: afile519
   extension: txt
   type: files
-- path: adataset2
-  name: adataset2
-  rows: 150
-  cols: 5
-  type: table
