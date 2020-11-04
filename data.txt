@@ -669,8 +669,3 @@
   name: afile855
   extension: txt
   type: files
-- path: adataset523
-  name: adataset523
-  rows: 150
-  cols: 5
-  type: table
