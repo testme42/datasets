@@ -617,8 +617,3 @@
   name: afile388
   extension: txt
   type: files
-- path: adataset778
-  name: adataset778
-  rows: 150
-  cols: 5
-  type: table
