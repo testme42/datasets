@@ -649,6 +649,3 @@
   name: afile535
   extension: txt
   type: files
-- path: aversion752
-  name: aversion752
-  type: default
