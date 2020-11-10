@@ -685,8 +685,3 @@
   name: afile580
   extension: txt
   type: files
-- path: adataset280
-  name: adataset280
-  rows: 150
-  cols: 5
-  type: table
