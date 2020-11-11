@@ -693,8 +693,3 @@
   name: afile95
   extension: txt
   type: files
-- path: adataset448
-  name: adataset448
-  rows: 150
-  cols: 5
-  type: table
