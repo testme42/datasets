@@ -693,6 +693,3 @@
   name: afile95
   extension: txt
   type: files
-- path: aversion819
-  name: aversion819
-  type: default
