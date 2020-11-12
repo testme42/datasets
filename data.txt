@@ -697,8 +697,3 @@
   name: afile212
   extension: txt
   type: files
-- path: adataset43
-  name: adataset43
-  rows: 150
-  cols: 5
-  type: table
