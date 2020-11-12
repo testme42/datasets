@@ -701,3 +701,8 @@
   name: afile808
   extension: txt
   type: files
+- path: adataset496
+  name: adataset496
+  rows: 150
+  cols: 5
+  type: table
