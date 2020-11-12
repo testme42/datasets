@@ -653,10 +653,6 @@
   name: afile553
   extension: txt
   type: files
-- path: afile353
-  name: afile353
-  extension: txt
-  type: files
 - path: adataset837
   name: adataset837
   rows: 150
