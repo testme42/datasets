@@ -201,10 +201,6 @@
   name: afile998
   extension: txt
   type: files
-- path: afile892
-  name: afile892
-  extension: txt
-  type: files
 - path: afile430
   name: afile430
   extension: txt
