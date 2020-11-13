@@ -677,3 +677,8 @@
   name: afile809
   extension: txt
   type: files
+- path: adataset954
+  name: adataset954
+  rows: 150
+  cols: 5
+  type: table
