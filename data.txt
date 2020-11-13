@@ -709,3 +709,8 @@
   name: afile358
   extension: txt
   type: files
+- path: adataset12
+  name: adataset12
+  rows: 150
+  cols: 5
+  type: table
