@@ -657,8 +657,3 @@
   name: afile987
   extension: txt
   type: files
-- path: adataset840
-  name: adataset840
-  rows: 150
-  cols: 5
-  type: table
