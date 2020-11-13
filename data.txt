@@ -713,8 +713,3 @@
   name: afile251
   extension: txt
   type: files
-- path: adataset270
-  name: adataset270
-  rows: 150
-  cols: 5
-  type: table
