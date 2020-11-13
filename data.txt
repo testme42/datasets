@@ -669,3 +669,8 @@
   name: afile596
   extension: txt
   type: files
+- path: adataset19
+  name: adataset19
+  rows: 150
+  cols: 5
+  type: table
