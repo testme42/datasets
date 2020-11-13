@@ -661,3 +661,6 @@
   name: afile550
   extension: txt
   type: files
+- path: aversion1
+  name: aversion1
+  type: default
