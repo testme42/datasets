@@ -729,10 +729,6 @@
   name: afile404
   extension: txt
   type: files
-- path: afile269
-  name: afile269
-  extension: txt
-  type: files
 - path: adataset301
   name: adataset301
   rows: 150
