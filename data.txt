@@ -1,7 +1,3 @@
-- path: afile431
-  name: afile431
-  extension: txt
-  type: files
 - path: aversion905
   name: aversion905
   type: default
