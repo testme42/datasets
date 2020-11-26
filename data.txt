@@ -685,3 +685,8 @@
   name: afile640
   extension: txt
   type: files
+- path: adataset41
+  name: adataset41
+  rows: 150
+  cols: 5
+  type: table
