@@ -1,12 +1,3 @@
-path:
-- data.csv
-- data.rds
-rows: 150
-cols: 5
-columns:
-  Sepal.Length: numeric
-  Sepal.Width: numeric
-  Petal.Length: numeric
-  Petal.Width: numeric
-  Species: factor
-type: table
+path: hello.txt
+extension: txt
+type: files
