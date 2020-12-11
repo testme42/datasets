@@ -738,10 +738,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile588
-  name: afile588
-  extension: txt
-  type: files
 - path: adataset910
   name: adataset910
   rows: 150
