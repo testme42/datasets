@@ -742,8 +742,3 @@
   name: afile588
   extension: txt
   type: files
-- path: adataset513
-  name: adataset513
-  rows: 150
-  cols: 5
-  type: table
