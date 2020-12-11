@@ -735,6 +735,5 @@
   type: files
 - path: type
   name: type
-  rows: 150
-  cols: 5
-  type: table
+  extension: txt
+  type: files
