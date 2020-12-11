@@ -735,4 +735,6 @@
   type: files
 - path: type
   name: type
-  type: default
+  rows: 150
+  cols: 5
+  type: table
