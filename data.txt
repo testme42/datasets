@@ -750,8 +750,3 @@
   name: afile182
   extension: txt
   type: files
-- path: adataset987
-  name: adataset987
-  rows: 150
-  cols: 5
-  type: table
