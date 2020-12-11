@@ -702,6 +702,3 @@
   name: afile848
   extension: txt
   type: files
-- path: aversion68
-  name: aversion68
-  type: default
