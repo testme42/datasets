@@ -690,3 +690,7 @@
   rows: 150
   cols: 5
   type: table
+- path: afile505
+  name: afile505
+  extension: txt
+  type: files
