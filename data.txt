@@ -735,5 +735,4 @@
   type: files
 - path: type
   name: type
-  extension: txt
-  type: files
+  type: default
