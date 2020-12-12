@@ -758,6 +758,3 @@
   name: afile367
   extension: txt
   type: files
-- path: aversion9
-  name: aversion9
-  type: default
