@@ -762,3 +762,8 @@
   name: afile415
   extension: txt
   type: files
+- path: adataset104
+  name: adataset104
+  rows: 150
+  cols: 5
+  type: table
