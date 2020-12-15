@@ -810,8 +810,3 @@
   name: afile796
   extension: txt
   type: files
-- path: adataset643
-  name: adataset643
-  rows: 150
-  cols: 5
-  type: table
