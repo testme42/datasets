@@ -826,3 +826,6 @@
   name: afile76
   extension: txt
   type: files
+- path: aversion88
+  name: aversion88
+  type: default
