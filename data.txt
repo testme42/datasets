@@ -767,8 +767,3 @@
   name: afile349
   extension: txt
   type: files
-- path: adataset69
-  name: adataset69
-  rows: 150
-  cols: 5
-  type: table
