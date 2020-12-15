@@ -798,8 +798,3 @@
   name: afile488
   extension: txt
   type: files
-- path: adataset146
-  name: adataset146
-  rows: 150
-  cols: 5
-  type: table
