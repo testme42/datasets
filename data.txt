@@ -766,3 +766,8 @@
   name: afile567
   extension: txt
   type: files
+- path: adataset251
+  name: adataset251
+  rows: 150
+  cols: 5
+  type: table
