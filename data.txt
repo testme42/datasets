@@ -706,6 +706,3 @@
   name: afile170
   extension: txt
   type: files
-- path: aversion861
-  name: aversion861
-  type: default
