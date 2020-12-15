@@ -778,3 +778,8 @@
   name: afile945
   extension: txt
   type: files
+- path: adataset620
+  name: adataset620
+  rows: 150
+  cols: 5
+  type: table
