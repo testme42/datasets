@@ -759,3 +759,8 @@
   name: afile45
   extension: txt
   type: files
+- path: adataset503
+  name: adataset503
+  rows: 150
+  cols: 5
+  type: table
