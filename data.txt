@@ -814,8 +814,3 @@
   name: afile101
   extension: txt
   type: files
-- path: adataset712
-  name: adataset712
-  rows: 150
-  cols: 5
-  type: table
