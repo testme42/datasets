@@ -751,8 +751,3 @@
   name: afile36
   extension: txt
   type: files
-- path: adataset843
-  name: adataset843
-  rows: 150
-  cols: 5
-  type: table
