@@ -710,3 +710,8 @@
   name: afile380
   extension: txt
   type: files
+- path: adataset787
+  name: adataset787
+  rows: 150
+  cols: 5
+  type: table
