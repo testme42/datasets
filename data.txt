@@ -730,3 +730,8 @@
   name: afile226
   extension: txt
   type: files
+- path: adataset302
+  name: adataset302
+  rows: 150
+  cols: 5
+  type: table
