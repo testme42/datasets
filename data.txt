@@ -702,8 +702,3 @@
   name: afile848
   extension: txt
   type: files
-- path: adataset434
-  name: adataset434
-  rows: 150
-  cols: 5
-  type: table
