@@ -790,6 +790,3 @@
   name: afile409
   extension: txt
   type: files
-- path: aversion695
-  name: aversion695
-  type: default
