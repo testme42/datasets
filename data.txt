@@ -790,8 +790,3 @@
   name: afile346
   extension: txt
   type: files
-- path: adataset506
-  name: adataset506
-  rows: 150
-  cols: 5
-  type: table
