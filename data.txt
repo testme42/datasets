@@ -770,6 +770,3 @@
   name: afile6
   extension: txt
   type: files
-- path: aversion461
-  name: aversion461
-  type: default
