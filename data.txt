@@ -774,3 +774,8 @@
   name: afile541
   extension: txt
   type: files
+- path: adataset1000
+  name: adataset1000
+  rows: 150
+  cols: 5
+  type: table
