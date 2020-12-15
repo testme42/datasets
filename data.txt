@@ -826,3 +826,8 @@
   name: afile76
   extension: txt
   type: files
+- path: adataset301
+  name: adataset301
+  rows: 150
+  cols: 5
+  type: table
