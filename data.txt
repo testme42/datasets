@@ -755,6 +755,3 @@
   name: afile36
   extension: txt
   type: files
-- path: aversion378
-  name: aversion378
-  type: default
