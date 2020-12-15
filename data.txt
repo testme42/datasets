@@ -738,3 +738,8 @@
   name: afile584
   extension: txt
   type: files
+- path: adataset410
+  name: adataset410
+  rows: 150
+  cols: 5
+  type: table
