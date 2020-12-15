@@ -751,8 +751,3 @@
   rows: 150
   cols: 5
   type: table
-- path: adataset228
-  name: adataset228
-  rows: 150
-  cols: 5
-  type: table
