@@ -858,8 +858,3 @@
   name: afile21
   extension: txt
   type: files
-- path: adataset116
-  name: adataset116
-  rows: 150
-  cols: 5
-  type: table
