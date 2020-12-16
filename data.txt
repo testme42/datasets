@@ -792,3 +792,8 @@
   name: afile105
   extension: txt
   type: files
+- path: adataset771
+  name: adataset771
+  rows: 150
+  cols: 5
+  type: table
