@@ -803,10 +803,6 @@
   name: afile708
   extension: txt
   type: files
-- path: afile580
-  name: afile580
-  extension: txt
-  type: files
 - path: adataset543
   name: adataset543
   rows: 150
