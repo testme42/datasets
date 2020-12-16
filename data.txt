@@ -393,10 +393,6 @@
   name: afile286
   extension: txt
   type: files
-- path: afile790
-  name: afile790
-  extension: txt
-  type: files
 - path: afile364
   name: afile364
   extension: txt
