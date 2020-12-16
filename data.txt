@@ -842,6 +842,3 @@
   name: afile865
   extension: txt
   type: files
-- path: aversion289
-  name: aversion289
-  type: default
