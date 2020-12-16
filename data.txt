@@ -838,8 +838,3 @@
   name: afile257
   extension: txt
   type: files
-- path: adataset191
-  name: adataset191
-  rows: 150
-  cols: 5
-  type: table
