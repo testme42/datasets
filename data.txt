@@ -846,8 +846,3 @@
   name: afile12
   extension: txt
   type: files
-- path: adataset765
-  name: adataset765
-  rows: 150
-  cols: 5
-  type: table
