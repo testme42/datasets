@@ -787,8 +787,3 @@
   name: afile105
   extension: txt
   type: files
-- path: adataset230
-  name: adataset230
-  rows: 150
-  cols: 5
-  type: table
