@@ -799,10 +799,6 @@
   name: afile540
   extension: txt
   type: files
-- path: afile708
-  name: afile708
-  extension: txt
-  type: files
 - path: adataset769
   name: adataset769
   rows: 150
