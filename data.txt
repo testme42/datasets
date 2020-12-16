@@ -819,3 +819,7 @@
   name: afile873
   extension: txt
   type: files
+- path: afile287
+  name: afile287
+  extension: txt
+  type: files
