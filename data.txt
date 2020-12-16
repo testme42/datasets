@@ -862,6 +862,3 @@
   name: afile11
   extension: txt
   type: files
-- path: aversion376
-  name: aversion376
-  type: default
