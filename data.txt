@@ -830,8 +830,3 @@
   name: afile245
   extension: txt
   type: files
-- path: adataset999
-  name: adataset999
-  rows: 150
-  cols: 5
-  type: table
