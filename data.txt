@@ -775,10 +775,6 @@
   name: afile457
   extension: txt
   type: files
-- path: afile873
-  name: afile873
-  extension: txt
-  type: files
 - path: afile976
   name: afile976
   extension: txt
