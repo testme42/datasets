@@ -843,3 +843,7 @@
   rows: 150
   cols: 5
   type: table
+- path: afile609
+  name: afile609
+  extension: txt
+  type: files
