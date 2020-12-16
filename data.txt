@@ -788,3 +788,7 @@
   rows: 150
   cols: 5
   type: table
+- path: afile105
+  name: afile105
+  extension: txt
+  type: files
