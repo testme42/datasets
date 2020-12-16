@@ -807,6 +807,3 @@
   name: afile580
   extension: txt
   type: files
-- path: aversion30
-  name: aversion30
-  type: default
