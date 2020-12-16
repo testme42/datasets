@@ -811,3 +811,8 @@
   name: afile655
   extension: txt
   type: files
+- path: adataset673
+  name: adataset673
+  rows: 150
+  cols: 5
+  type: table
