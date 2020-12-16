@@ -819,6 +819,3 @@
   name: afile826
   extension: txt
   type: files
-- path: aversion595
-  name: aversion595
-  type: default
