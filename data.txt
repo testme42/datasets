@@ -835,3 +835,8 @@
   name: afile109
   extension: txt
   type: files
+- path: adataset925
+  name: adataset925
+  rows: 150
+  cols: 5
+  type: table
