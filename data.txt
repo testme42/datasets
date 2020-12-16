@@ -771,8 +771,3 @@
   name: afile411
   extension: txt
   type: files
-- path: adataset16
-  name: adataset16
-  rows: 150
-  cols: 5
-  type: table
