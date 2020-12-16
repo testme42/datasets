@@ -1,0 +1,12 @@
+path:
+- https://api.github.com/repos/testme42/datasets/releases/assets/29618886
+- https://api.github.com/repos/testme42/datasets/releases/assets/29618888
+rows: 150
+cols: 5
+columns:
+  Sepal.Length: numeric
+  Sepal.Width: numeric
+  Petal.Length: numeric
+  Petal.Width: numeric
+  Species: factor
+type: table
