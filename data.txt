@@ -870,8 +870,3 @@
   name: afile352
   extension: txt
   type: files
-- path: adataset678
-  name: adataset678
-  rows: 150
-  cols: 5
-  type: table
