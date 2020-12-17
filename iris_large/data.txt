@@ -1,0 +1,15 @@
+path:
+- https://api.github.com/repos/testme42/datasets/releases/assets/29666275
+- https://api.github.com/repos/testme42/datasets/releases/assets/29666276
+rows: 150
+cols: 5
+columns:
+  Sepal.Length: numeric
+  Sepal.Width: numeric
+  Petal.Length: numeric
+  Petal.Width: numeric
+  Species: factor
+type: table
+filenames:
+  https://api.github.com/repos/testme42/datasets/releases/assets/29666275: data.csv
+  https://api.github.com/repos/testme42/datasets/releases/assets/29666276: data.rds
