@@ -843,10 +843,6 @@
   name: afile132
   extension: txt
   type: files
-- path: afile44
-  name: afile44
-  extension: txt
-  type: files
 - path: adataset635
   name: adataset635
   rows: 150
