@@ -2,6 +2,3 @@
   name: afile787
   extension: txt
   type: files
-- path: aversion604
-  name: aversion604
-  type: default
