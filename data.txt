@@ -10,8 +10,3 @@
   name: afile130
   extension: txt
   type: files
-- path: adataset648
-  name: adataset648
-  rows: 150
-  cols: 5
-  type: table
