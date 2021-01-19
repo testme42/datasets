@@ -38,10 +38,6 @@
   name: afile561
   extension: txt
   type: files
-- path: afile256
-  name: afile256
-  extension: txt
-  type: files
 - path: adataset899
   name: adataset899
   rows: 150
