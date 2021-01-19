@@ -1,0 +1,5 @@
+path: hello.txt
+extension: txt
+type: files
+filenames:
+  hello.txt: hello.txt
