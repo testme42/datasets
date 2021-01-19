@@ -30,3 +30,8 @@
   name: afile565
   extension: txt
   type: files
+- path: adataset308
+  name: adataset308
+  rows: 150
+  cols: 5
+  type: table
