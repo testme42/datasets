@@ -42,3 +42,7 @@
   name: afile256
   extension: txt
   type: files
+- path: access_type_test
+  name: access_type_test
+  extension: txt
+  type: files
