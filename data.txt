@@ -34,3 +34,6 @@
   name: access_type_test
   extension: txt
   type: files
+- path: aversion822
+  name: aversion822
+  type: default
