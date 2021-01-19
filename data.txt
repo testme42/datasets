@@ -30,10 +30,6 @@
   name: afile565
   extension: txt
   type: files
-- path: access_type_test
-  name: access_type_test
-  extension: txt
-  type: files
 - path: afile499
   name: afile499
   extension: txt
